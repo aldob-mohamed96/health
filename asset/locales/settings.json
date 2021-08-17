@@ -1,0 +1,18 @@
+{
+      "app_name": "DoBON",
+      "default_theme": "light",
+      "main_color": "#ff8c6c",
+      "main_dark_color": "#ff8c6c",
+      "second_color": "#102036",
+      "second_dark_color": "#ccd7e6",
+      "accent_color": "#8C9DA8",
+      "accent_dark_color": "#9999aa",
+      "scaffold_dark_color": "#2c2c2c",
+      "scaffold_color": "#dddef2",
+      "mobile_language": "ar_EG",
+      "app_version": "1.0.0",
+      "enable_version": "1"
+     
+ 
+  
+  }
